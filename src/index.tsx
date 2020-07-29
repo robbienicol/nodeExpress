@@ -1,4 +1,4 @@
-import aRoute from "./Routes/aRoute";
+import aRoute from "./routes/aRoute";
 
 const express = require("express");
 const app = express();
