@@ -14,4 +14,4 @@ app.listen(port, () => {
   console.log(`server started at http://localhost:${port}`);
 });
 // using json packege
-app.use("/v1/resources", resourceRouter);
+app.use("/aRoute", aRoute);
